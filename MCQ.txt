@@ -1,0 +1,7 @@
+1. B (10)
+2. C (101)
+3. A (10)
+4. E (Both B and D)
+5. D (Endless loop)
+6. A (5 6)
+7. D (4039)
